@@ -5,9 +5,9 @@ en:
     org: "Code for America"
     desc2: "Build an immediate list of the most influential people to follow for next-gen infrastructure"
     desc3: "docker, k8, coreOS, cloud foundry, mesos, pundits, hasicorp and much more"
-    nwo: "nwo: the new world order (all the people you should be following) [~115 members]"
-    code: "code-past-and-present: all members of EMC {code} past and preset [~16 members]"
-    devev: "evangelism: Dev Advocates and Evangelists for various companies. Thanks Kin! [~300 members]"
+    nwo: "the new world order (all the people you should be following) [~115 members]"
+    code: "all members of EMC {code} past and preset [~18 members]"
+    devev: "Dev Advocates and Evangelists for various companies. Thanks Kin! [~300 members]"
   button:
     follow_all: "Follow all members of this list!"
     sign_in: "Sign in with Twitter"
