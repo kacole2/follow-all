@@ -12,7 +12,7 @@ task cron: :environment do
     config.access_token_secret = ENV['OAUTH_TOKEN_SECRET']
   end
 
-  user = 'codeforamerica'
+  user = 'kendrickcoleman'
   ['bod', 'staff', "fellows-#{Time.zone.now.year}"].each do |list|
     cursor = -1
     until cursor == 0

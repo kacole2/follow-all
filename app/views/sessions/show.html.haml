@@ -9,6 +9,16 @@
     = form_tag('/follows', method: 'post', class: 'form-horizontal') do
       %fieldset
         %legend
+          = t('app.desc2')
+      %ul
+        %li 
+          = t('app.nwo')
+        %li
+          = t('app.code')
+        %li
+          = t('app.devev')
+      %br
+      %br
         .control-group
           %label.control-label
             = t('control.select_list')
